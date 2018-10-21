@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="CalcAddIns" oor:package="org.openoffice.Office">
+<node oor:name="AddInInfo">
+<node oor:name="com.doobiecompany.examples.DoobieDoo.python.DoobieDooImpl" oor:op="replace">
+<node oor:name="AddInFunctions">
+  <node oor:name="SUMItv" oor:op="replace">
+    <prop oor:name="DisplayName"><value xml:lang="en">SUMItv</value></prop>
+    <prop oor:name="Description"><value xml:lang="en">ADDITION entre intervalles.</value></prop>
+    <prop oor:name="Category"><value>Add-In</value></prop>
+    <prop oor:name="CompatibilityName"><value xml:lang="en">AutoAddIn.DoobieDo.SUMItv</value></prop>
+    <node oor:name="Parameters">
+      <node oor:name="s1" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s1</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s2" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s2</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s3" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s3</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s4" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s4</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s5" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s5</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s6" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s6</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s7" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s7</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s8" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s8</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s9" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s9</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s10" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s10</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s11" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s11</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s12" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s12</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s13" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s13</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s14" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s14</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s15" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s15</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s16" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s16</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s17" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s17</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s18" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s18</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s19" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s19</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s20" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s20</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s21" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s21</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s22" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s22</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s23" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s23</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s24" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s24</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+    </node>
+  </node>
+  <node oor:name="DIFFItv" oor:op="replace">
+    <prop oor:name="DisplayName"><value xml:lang="en">DIFFItv</value></prop>
+    <prop oor:name="Description"><value xml:lang="en">Soustraction 2 intervalles.</value></prop>
+    <prop oor:name="Category"><value>Add-In</value></prop>
+    <prop oor:name="CompatibilityName"><value xml:lang="en">AutoAddIn.DoobieDo.DIFFItv</value></prop>
+    <node oor:name="Parameters">
+      <node oor:name="a" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">a</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">le premier intervalle.</value></prop>
+      </node>
+      <node oor:name="b" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">b</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">le deuxieme intervalle.</value></prop>
+      </node>
+    </node>
+  </node>
+  <node oor:name="PRODUCTItv" oor:op="replace">
+    <prop oor:name="DisplayName"><value xml:lang="en">PRODUCTItv</value></prop>
+    <prop oor:name="Description"><value xml:lang="en">Multiplication 2 intervalles.</value></prop>
+    <prop oor:name="Category"><value>Add-In</value></prop>
+    <prop oor:name="CompatibilityName"><value xml:lang="en">AutoAddIn.DoobieDo.PRODUCTItv</value></prop>
+    <node oor:name="Parameters">
+      <node oor:name="s1" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s1</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s2" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s2</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s3" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s3</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s4" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s4</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s5" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s5</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s6" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s6</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s7" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s7</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s8" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s8</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s9" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s9</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s10" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s10</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s11" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s11</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s12" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s12</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s13" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s13</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s14" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s14</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s15" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s15</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s16" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s16</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s17" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s17</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s18" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s18</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s19" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s19</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s20" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s20</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s21" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s21</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s22" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s22</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s23" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s23</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s24" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s24</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+    </node>
+  </node>
+  <node oor:name="UNIONItv" oor:op="replace">
+    <prop oor:name="DisplayName"><value xml:lang="en">UNIONItv</value></prop>
+    <prop oor:name="Description"><value xml:lang="en">Produit scalaire 2 intervalles.</value></prop>
+    <prop oor:name="Category"><value>Add-In</value></prop>
+    <prop oor:name="CompatibilityName"><value xml:lang="en">AutoAddIn.DoobieDo.UNIONItv</value></prop>
+    <node oor:name="Parameters">
+      <node oor:name="s1" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s1</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s2" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s2</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s3" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s3</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s4" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s4</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s5" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s5</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s6" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s6</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s7" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s7</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s8" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s8</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s9" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s9</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s10" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s10</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s11" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s11</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s12" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s12</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s13" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s13</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s14" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s14</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s15" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s15</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s16" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s16</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s17" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s17</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s18" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s18</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s19" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s19</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s20" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s20</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s21" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s21</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s22" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s22</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s23" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s23</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+      <node oor:name="s24" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">s24</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">The first string.</value></prop>
+      </node>
+    </node>
+  </node>
+  <node oor:name="DIVItv" oor:op="replace">
+    <prop oor:name="DisplayName"><value xml:lang="en">DIVItv</value></prop>
+    <prop oor:name="Description"><value xml:lang="en">Division 2 intervalles.</value></prop>
+    <prop oor:name="Category"><value>Add-In</value></prop>
+    <prop oor:name="CompatibilityName"><value xml:lang="en">AutoAddIn.DoobieDo.DIVItv</value></prop>
+    <node oor:name="Parameters">
+      <node oor:name="a" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">a</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">le premier intervalle.</value></prop>
+      </node>
+      <node oor:name="b" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">b</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">le deuxieme intervalle.</value></prop>
+      </node>
+    </node>
+  </node>
+  <node oor:name="INTERItv" oor:op="replace">
+    <prop oor:name="DisplayName"><value xml:lang="en">INTERItv</value></prop>
+    <prop oor:name="Description"><value xml:lang="en">Intersection de 2 intervalles.</value></prop>
+    <prop oor:name="Category"><value>Add-In</value></prop>
+    <prop oor:name="CompatibilityName"><value xml:lang="en">AutoAddIn.DoobieDo.INTERItv</value></prop>
+    <node oor:name="Parameters">
+      <node oor:name="a" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">a</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">le premier intervalle.</value></prop>
+      </node>
+      <node oor:name="b" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">b</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">le deuxieme intervalle.</value></prop>
+      </node>
+    </node>
+  </node>
+  <node oor:name="COMPItv" oor:op="replace">
+    <prop oor:name="DisplayName"><value xml:lang="en">COMPItv</value></prop>
+    <prop oor:name="Description"><value xml:lang="en">Comparaison de 2 intervalles.</value></prop>
+    <prop oor:name="Category"><value>Add-In</value></prop>
+    <prop oor:name="CompatibilityName"><value xml:lang="en">AutoAddIn.DoobieDo.COMPItv</value></prop>
+    <node oor:name="Parameters">
+      <node oor:name="a" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">a</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">le premier intervalle.</value></prop>
+      </node>
+      <node oor:name="b" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">b</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">le deuxieme intervalle.</value></prop>
+      </node>
+    </node>
+  </node>
+  <node oor:name="INItv" oor:op="replace">
+    <prop oor:name="DisplayName"><value xml:lang="en">INItv</value></prop>
+    <prop oor:name="Description"><value xml:lang="en">Test inclusion.</value></prop>
+    <prop oor:name="Category"><value>Add-In</value></prop>
+    <prop oor:name="CompatibilityName"><value xml:lang="en">AutoAddIn.DoobieDo.INItv</value></prop>
+    <node oor:name="Parameters">
+      <node oor:name="a" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">a</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">le premier intervalle.</value></prop>
+      </node>
+      <node oor:name="b" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">b</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">le deuxieme intervalle.</value></prop>
+      </node>
+    </node>
+  </node>
+  <node oor:name="POWItv" oor:op="replace">
+    <prop oor:name="DisplayName"><value xml:lang="en">POWItv</value></prop>
+    <prop oor:name="Description"><value xml:lang="en">Puissance d'intervalle.</value></prop>
+    <prop oor:name="Category"><value>Add-In</value></prop>
+    <prop oor:name="CompatibilityName"><value xml:lang="en">AutoAddIn.DoobieDo.POWItv</value></prop>
+    <node oor:name="Parameters">
+      <node oor:name="a" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">a</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">le premier intervalle.</value></prop>
+      </node>
+      <node oor:name="b" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">b</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">Indice de puissance.</value></prop>
+      </node>
+    </node>
+  </node>
+  <node oor:name="ABSItv" oor:op="replace">
+    <prop oor:name="DisplayName"><value xml:lang="en">ABSItv</value></prop>
+    <prop oor:name="Description"><value xml:lang="en">Valeur absolue d'un intervalle.</value></prop>
+    <prop oor:name="Category"><value>Add-In</value></prop>
+    <prop oor:name="CompatibilityName"><value xml:lang="en">AutoAddIn.DoobieDo.ABSItv</value></prop>
+    <node oor:name="Parameters">
+      <node oor:name="a" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">a</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">l'intervalle.</value></prop>
+      </node>
+    </node>
+  </node>
+  <node oor:name="TANItv" oor:op="replace">
+    <prop oor:name="DisplayName"><value xml:lang="en">TANItv</value></prop>
+    <prop oor:name="Description"><value xml:lang="en">Tangente d'un intervalle.</value></prop>
+    <prop oor:name="Category"><value>Add-In</value></prop>
+    <prop oor:name="CompatibilityName"><value xml:lang="en">AutoAddIn.DoobieDo.TANItv</value></prop>
+    <node oor:name="Parameters">
+      <node oor:name="a" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">a</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">l'intervalle.</value></prop>
+      </node>
+    </node>
+  </node>
+  <node oor:name="TANHItv" oor:op="replace">
+    <prop oor:name="DisplayName"><value xml:lang="en">TANHItv</value></prop>
+    <prop oor:name="Description"><value xml:lang="en">Tangente hyperbolique d'intervalle.</value></prop>
+    <prop oor:name="Category"><value>Add-In</value></prop>
+    <prop oor:name="CompatibilityName"><value xml:lang="en">AutoAddIn.DoobieDo.TANHItv</value></prop>
+    <node oor:name="Parameters">
+      <node oor:name="a" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">a</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">l'intervalle.</value></prop>
+      </node>
+    </node>
+  </node>
+  <node oor:name="TANPIItv" oor:op="replace">
+    <prop oor:name="DisplayName"><value xml:lang="en">TANPIItv</value></prop>
+    <prop oor:name="Description"><value xml:lang="en">Tangente/pi d'un intervalle.</value></prop>
+    <prop oor:name="Category"><value>Add-In</value></prop>
+    <prop oor:name="CompatibilityName"><value xml:lang="en">AutoAddIn.DoobieDo.TANPIItv</value></prop>
+    <node oor:name="Parameters">
+      <node oor:name="a" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">a</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">l'intervalle.</value></prop>
+      </node>
+    </node>
+  </node>
+  <node oor:name="ATANItv" oor:op="replace">
+    <prop oor:name="DisplayName"><value xml:lang="en">ATANItv</value></prop>
+    <prop oor:name="Description"><value xml:lang="en">Arc tangente d'un intervalle.</value></prop>
+    <prop oor:name="Category"><value>Add-In</value></prop>
+    <prop oor:name="CompatibilityName"><value xml:lang="en">AutoAddIn.DoobieDo.ATANItv</value></prop>
+    <node oor:name="Parameters">
+      <node oor:name="a" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">a</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">l'intervalle.</value></prop>
+      </node>
+    </node>
+  </node>
+  <node oor:name="ATANPIItv" oor:op="replace">
+    <prop oor:name="DisplayName"><value xml:lang="en">ATANPIItv</value></prop>
+    <prop oor:name="Description"><value xml:lang="en">Arc tangente / pi d'un intervalle.</value></prop>
+    <prop oor:name="Category"><value>Add-In</value></prop>
+    <prop oor:name="CompatibilityName"><value xml:lang="en">AutoAddIn.DoobieDo.ATANPIItv</value></prop>
+    <node oor:name="Parameters">
+      <node oor:name="a" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">a</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">le premier intervalle.</value></prop>
+      </node>
+    </node>
+  </node>
+  <node oor:name="COSItv" oor:op="replace">
+    <prop oor:name="DisplayName"><value xml:lang="en">COSItv</value></prop>
+    <prop oor:name="Description"><value xml:lang="en">cosinus d'un intervalle.</value></prop>
+    <prop oor:name="Category"><value>Add-In</value></prop>
+    <prop oor:name="CompatibilityName"><value xml:lang="en">AutoAddIn.DoobieDo.COSItv</value></prop>
+    <node oor:name="Parameters">
+      <node oor:name="a" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">a</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">le premier intervalle.</value></prop>
+      </node>
+    </node>
+  </node>
+  <node oor:name="COSHItv" oor:op="replace">
+    <prop oor:name="DisplayName"><value xml:lang="en">COSHItv</value></prop>
+    <prop oor:name="Description"><value xml:lang="en">Cosinus hyperbolique d'un intervalle.</value></prop>
+    <prop oor:name="Category"><value>Add-In</value></prop>
+    <prop oor:name="CompatibilityName"><value xml:lang="en">AutoAddIn.DoobieDo.COSHItv</value></prop>
+    <node oor:name="Parameters">
+      <node oor:name="a" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">a</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">le premier intervalle.</value></prop>
+      </node>
+    </node>
+  </node>
+  <node oor:name="COSPIItv" oor:op="replace">
+    <prop oor:name="DisplayName"><value xml:lang="en">COSPIItv</value></prop>
+    <prop oor:name="Description"><value xml:lang="en">Cosinus/Pi d'un intervalle.</value></prop>
+    <prop oor:name="Category"><value>Add-In</value></prop>
+    <prop oor:name="CompatibilityName"><value xml:lang="en">AutoAddIn.DoobieDo.COSPIItv</value></prop>
+    <node oor:name="Parameters">
+      <node oor:name="a" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">a</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">l'intervalle.</value></prop>
+      </node>
+    </node>
+  </node>
+  <node oor:name="EXPItv" oor:op="replace">
+    <prop oor:name="DisplayName"><value xml:lang="en">EXPItv</value></prop>
+    <prop oor:name="Description"><value xml:lang="en">Exp d'un intervalle.</value></prop>
+    <prop oor:name="Category"><value>Add-In</value></prop>
+    <prop oor:name="CompatibilityName"><value xml:lang="en">AutoAddIn.DoobieDo.EXPItv</value></prop>
+    <node oor:name="Parameters">
+      <node oor:name="a" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">a</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">l'intervalle.</value></prop>
+      </node>
+    </node>
+  </node>
+  <node oor:name="EXPM1Itv" oor:op="replace">
+    <prop oor:name="DisplayName"><value xml:lang="en">EXPM1Itv</value></prop>
+    <prop oor:name="Description"><value xml:lang="en">EXPM1 d'un intervalle.</value></prop>
+    <prop oor:name="Category"><value>Add-In</value></prop>
+    <prop oor:name="CompatibilityName"><value xml:lang="en">AutoAddIn.DoobieDo.EXPM1Itv</value></prop>
+    <node oor:name="Parameters">
+      <node oor:name="a" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">a</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">l'intervalle.</value></prop>
+      </node>
+    </node>
+  </node>
+  <node oor:name="LOGItv" oor:op="replace">
+    <prop oor:name="DisplayName"><value xml:lang="en">LOGItv</value></prop>
+    <prop oor:name="Description"><value xml:lang="en">Log d'un intervalle.</value></prop>
+    <prop oor:name="Category"><value>Add-In</value></prop>
+    <prop oor:name="CompatibilityName"><value xml:lang="en">AutoAddIn.DoobieDo.LOGItv</value></prop>
+    <node oor:name="Parameters">
+      <node oor:name="a" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">a</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">l'intervalle.</value></prop>
+      </node>
+    </node>
+  </node>
+  <node oor:name="LOGDIXItv" oor:op="replace">
+    <prop oor:name="DisplayName"><value xml:lang="en">LOGDIXItv</value></prop>
+    <prop oor:name="Description"><value xml:lang="en">Log10 d'un intervalle.</value></prop>
+    <prop oor:name="Category"><value>Add-In</value></prop>
+    <prop oor:name="CompatibilityName"><value xml:lang="en">AutoAddIn.DoobieDo.LOGDIXItv</value></prop>
+    <node oor:name="Parameters">
+      <node oor:name="a" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">a</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">le premier intervalle.</value></prop>
+      </node>
+    </node>
+  </node>
+  <node oor:name="LOGUNPIItv" oor:op="replace">
+    <prop oor:name="DisplayName"><value xml:lang="en">LOGUNPIItv</value></prop>
+    <prop oor:name="Description"><value xml:lang="en">LOGUNPI d'intervalle.</value></prop>
+    <prop oor:name="Category"><value>Add-In</value></prop>
+    <prop oor:name="CompatibilityName"><value xml:lang="en">AutoAddIn.DoobieDo.LOGUNPIItv</value></prop>
+    <node oor:name="Parameters">
+      <node oor:name="a" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">a</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">l'intervalle.</value></prop>
+      </node>
+    </node>
+  </node>
+  <node oor:name="LOGDEUXItv" oor:op="replace">
+    <prop oor:name="DisplayName"><value xml:lang="en">LOGDEUXItv</value></prop>
+    <prop oor:name="Description"><value xml:lang="en">LOGDEUX d'un intervalle.</value></prop>
+    <prop oor:name="Category"><value>Add-In</value></prop>
+    <prop oor:name="CompatibilityName"><value xml:lang="en">AutoAddIn.DoobieDo.LOGDEUXItv</value></prop>
+    <node oor:name="Parameters">
+      <node oor:name="a" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">a</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">l'intervalle.</value></prop>
+      </node>
+    </node>
+  </node>
+  <node oor:name="SINItv" oor:op="replace">
+    <prop oor:name="DisplayName"><value xml:lang="en">SINItv</value></prop>
+    <prop oor:name="Description"><value xml:lang="en">Sinus d'un intervalle.</value></prop>
+    <prop oor:name="Category"><value>Add-In</value></prop>
+    <prop oor:name="CompatibilityName"><value xml:lang="en">AutoAddIn.DoobieDo.SINItv</value></prop>
+    <node oor:name="Parameters">
+      <node oor:name="a" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">a</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">l'intervalle.</value></prop>
+      </node>
+    </node>
+  </node>
+  <node oor:name="SINHItv" oor:op="replace">
+    <prop oor:name="DisplayName"><value xml:lang="en">SINHItv</value></prop>
+    <prop oor:name="Description"><value xml:lang="en">Sinus hyperbolique d'un intervalle.</value></prop>
+    <prop oor:name="Category"><value>Add-In</value></prop>
+    <prop oor:name="CompatibilityName"><value xml:lang="en">AutoAddIn.DoobieDo.SINHItv</value></prop>
+    <node oor:name="Parameters">
+      <node oor:name="a" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">a</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">l'intervalle.</value></prop>
+      </node>
+    </node>
+  </node>
+  <node oor:name="SINPIItv" oor:op="replace">
+    <prop oor:name="DisplayName"><value xml:lang="en">SINPIItv</value></prop>
+    <prop oor:name="Description"><value xml:lang="en">Sinus/PI d'un intervalle.</value></prop>
+    <prop oor:name="Category"><value>Add-In</value></prop>
+    <prop oor:name="CompatibilityName"><value xml:lang="en">AutoAddIn.DoobieDo.SINPIItv</value></prop>
+    <node oor:name="Parameters">
+      <node oor:name="a" oor:op="replace">
+        <prop oor:name="DisplayName"><value xml:lang="en">a</value></prop>
+        <prop oor:name="Description"><value xml:lang="en">l'intervalle.</value></prop>
+      </node>
+    </node>
+  </node>
+</node>
+</node>
+</node>
+</oor:component-data>
